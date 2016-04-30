@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./gratulatiopanegy00gill_0019.png"; bbox 0 0 2154 3460; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 525 452 1657 638">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 525 452 1657 638">
+     <span class='ocr_line' id='line_1_1' title="bbox 1064 452 1143 515; baseline 0.038 -3"><span class='ocrx_word' id='word_1_1' title='bbox 1064 452 1143 515; x_wconf 86' lang='grc' dir='ltr'><strong>ΙΙ.</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 525 555 1657 638; baseline 0.021 -23"><span class='ocrx_word' id='word_1_2' title='bbox 525 555 886 622; x_wconf 84' lang='lat' dir='ltr'>TENDIT</span> <span class='ocrx_word' id='word_1_3' title='bbox 965 561 1059 624; x_wconf 91' lang='lat' dir='ltr'><strong>IN</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1135 567 1657 638; x_wconf 73' lang='lat' dir='ltr'><strong>IMMENSUM·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 236 710 1946 2524">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 236 710 1946 2524">
+     <span class='ocr_line' id='line_1_3' title="bbox 236 710 1946 2524; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 236 710 1946 2524; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 400 2462 728 2501">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 400 2462 728 2501">
+     <span class='ocr_line' id='line_1_4' title="bbox 400 2462 728 2501; baseline 0.009 -3"><span class='ocrx_word' id='word_1_6' title='bbox 400 2471 504 2499; x_wconf 52' lang='lat' dir='ltr'><strong>Barth&lt;</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 543 2462 728 2501; x_wconf 47' lang='lat' dir='ltr'><strong>Schranfmd</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
